@@ -11,6 +11,12 @@ COVID risk percentages: https://19andme.covid19.mathematica.org/
 CDC COVID data: https://covid.cdc.gov/covid-data-tracker/#datatracker-home
 
 
-VAERS / CDC data: 
-CSV's included in repository
+Vaccine Adverse Event Reporting System data (CSV's in folder):
+- 2020 cases
+- 2021 cases
+
+CDC COVID / Vaccine data: 
+- age groups of people with dose administered
+- deaths by age group
+- cases by age group 
 
