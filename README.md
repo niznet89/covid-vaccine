@@ -3,6 +3,8 @@ Project to investigate and understand the risks of getting the COVID vaccine. My
 
 Keep in mind the data sets were pulled into Pandas locally and Jupyter notebooks was used as the IDE. If you have questions as to why I did things one way or another, I probably don't know as I still have no idea how computers work. Ask away though. 
 
+Code is included in file: COVID Vaccine Investigation -Copy2
+
 Data sets used: 
 - VAERS (primary dataset): https://vaers.hhs.gov/data.html
 - Our World in Data: https://ourworldindata.org/coronavirus
